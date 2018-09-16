@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1057981706443",
+    "firebase_url": "https://aid1-ba013.firebaseio.com",
+    "project_id": "aid1-ba013",
+    "storage_bucket": "aid1-ba013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057981706443:android:8e839774b4e78455",
+        "android_client_info": {
+          "package_name": "com.mittens.mit.aid1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057981706443-303k5b2mkrl3jd7avkklnd338jnatito.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt9yIjzmKz4wHmqcoAgENWJGZmMdGtQNA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057981706443:android:7f170397563ee689",
+        "android_client_info": {
+          "package_name": "om.mittens.mit.aid1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057981706443-303k5b2mkrl3jd7avkklnd338jnatito.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt9yIjzmKz4wHmqcoAgENWJGZmMdGtQNA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
